@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: croguerrero/pytest:1
+      - image: croguerrero/devops:latest
         name: flaskdemo
         resources: {}
 status: {}
